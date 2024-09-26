@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-security-jwt-demo
+  h2:
+    console:
+      enabled: true
+  #security:
+    #user:
+      #name: javaspark
+      #password: password
+server:
+  port: 9191
+
